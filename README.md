@@ -2,7 +2,7 @@
 
 
 Face_Detection_project <br>
-Face_Mesh_project
-Hand_Traking_Project
-Pose_Estimation_Project
-AI_Virtual_Mouse
+Face_Mesh_project  <br>
+Hand_Traking_Project  <br>
+Pose_Estimation_Project  <br>
+AI_Virtual_Mouse  <br>
